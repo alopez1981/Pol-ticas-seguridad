@@ -3,7 +3,7 @@
 ## Política de Seguridad de la Información
 
 **Objetivo:**  
-Proteger la confidencialidad, integridad y disponibilidad de la información gestionada por [Nombre de la Empresa], garantizando el cumplimiento legal y la confianza de nuestros clientes y trabajadores.
+Proteger la confidencialidad, integridad y disponibilidad de la información gestionada por Hoy-Voy, garantizando el cumplimiento legal y la confianza de nuestros clientes y trabajadores.
 
 **Ámbito de aplicación:**  
 Esta política aplica a todos los empleados, colaboradores, proveedores y sistemas de información de la empresa.
