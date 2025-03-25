@@ -17,7 +17,7 @@ Esta política aplica a todos los empleados, colaboradores, proveedores y sistem
 
 **Responsables:**  
 - Responsable técnico.  
-- Responsable legal y GRC/DPD en formación.
+- Responsable legal y GRC/DPD.
 
 **Revisión:**  
 Esta política será revisada cada 12 meses o tras un incidente grave.
